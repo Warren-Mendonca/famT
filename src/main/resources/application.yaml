@@ -1,0 +1,7 @@
+spring.application.name=famT
+
+
+amazon.dynamodb.endpoint=dynamodb.us-east-2.amazonaws.com
+amazon.dynamodb.region=us-east-2
+amazon.aws.accesskey=AKIAVY2PHDS2AGC6PJAO
+amazon.aws.secretkey=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
